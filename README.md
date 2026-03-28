@@ -46,7 +46,7 @@ python3 scanner.py
 
 ## Limitations & Disclaimers
 
-⚠️ **Important:**
+**Important:**
 
 - This scanner is a **simple educational example**, not suitable for production use
 - Currently targets **localhost (127.0.0.1) only**—modifying the target IP requires editing the source code
